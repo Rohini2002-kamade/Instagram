@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "dcbd82e3-e599-4f1a-84c2-51f494ebcc25"
+      }
+    },
+    "android": {
+      "package": "com.kamade_rohini.admin"
+    },
+    "ios": {
+      "bundleIdentifier": "com.MyCompany.MyApp"
+    }
+  }
+}
